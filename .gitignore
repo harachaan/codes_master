@@ -1,0 +1,23 @@
+# conflict起きてめんどいから
+.DS_Store
+*.asv
+
+# 図もgit hubでは管理しない
+*.pdf
+*.jpg
+*.png
+*.mp4
+
+*.mat
+
+*.csv
+*.txt
+
+# 著作権的に一応
+yoshimuLibrary_previous/
+yoshimuLibrary/
+ 
+
+# temporary_outputs/
+
+
