@@ -11,12 +11,15 @@
 *.mat
 
 *.csv
-*.txt
+# *.txt
 
 # 著作権的に一応
 yoshimuLibrary_previous/
-yoshimuLibrary/
- 
+# yoshimuLibrary/
+
+# でかすぎ．242.5MB, 4.9MB
+EGM2008_to2190_TideFree.txt
+EOP_20_C04_one_file_1962-now.txt
 
 # temporary_outputs/
 
