@@ -75,7 +75,11 @@ switch(nargout)
         error('Too many output variables, must be 0, 1 or 2.');
 end
 
+% showSphere(cax, f, v)
+
 end
+
+
 
 function [i,v] = getMidPoint(t1,t2,v)
 %GETMIDPOINT calculates point between two vertices
