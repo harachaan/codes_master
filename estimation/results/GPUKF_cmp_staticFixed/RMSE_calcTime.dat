@@ -1,0 +1,13 @@
+phi_GPUKF,14.5383923850937,[deg]
+theta_GPUKF,33.3480008713979,[deg]
+psi_GPUKF,34.013412955978,[deg]
+mApp_GPUKF,1.38884911607604,[-]
+--,--,--
+phi_UKF,12.4030228737154,[deg]
+theta_UKF,37.0327437845653,[deg]
+psi_UKF,30.2687744948719,[deg]
+mApp_UKF,7.52947242661449,[-]
+--,--,--
+"mean of computation time in observation step (trained GP model, GPUKF)",0.891374863611111,[s]
+"mean of computation time in observation step (light curve model, UKF)",0.00753070944444445,[s]
+calculation time (cmp_GPUKF_UKF),9.43339442916667,[min]
